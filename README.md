@@ -1,7 +1,6 @@
 # SKYWALKER DDOS — Terminal Visual (Python)
 
-Небольшой проект на Python, который делает “киношный” визуал в терминале: большой ASCII‑баннер **SKYWALKER DDOS**, оформленное меню и эффекты вывода.  
-Проект сделан для демонстрации **TUI/визуала** в консоли.
+My personal Python development – ​​**a visual DDoS attacker**. **If I get more than one star, I might drop a real DDoS attack.**
 
 ---
 
@@ -13,9 +12,9 @@
 
 ---
 
-## Зависимости (Arch Linux)
+## Dependencies (Arch Linux)
 
-Установка через pacman:
+Installation via pacman:
 
 ```bash
 sudo pacman -S python python-rich python-pyfiglet
