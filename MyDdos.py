@@ -63,9 +63,9 @@ def start_fake_flood():
     global packets_sent
     clear()
     packets_sent = 0
-    console.print("SKYSTART: 12-second simulation started.\n", markup=False)
+    console.print("SKYSTART: ddos started.\n", markup=False)
     run_fake_stream(duration_seconds=12)
-    console.print("\nDONE: simulation finished. Returning to menu...", markup=False)
+    console.print("\nDONE: DDoS attack completed. Return to menu.", markup=False)
     time.sleep(1.0)
     clear()
 
